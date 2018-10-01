@@ -1,0 +1,7 @@
+D:\Users\soroosh\source\repos\tennis\tennis\obj\Debug\tennis.csprojResolveAssemblyReference.cache
+D:\Users\soroosh\source\repos\tennis\tennis\obj\Debug\tennis.csproj.CoreCompileInputs.cache
+D:\Users\soroosh\source\repos\tennis\tennis\bin\Debug\tennis.exe.config
+D:\Users\soroosh\source\repos\tennis\tennis\bin\Debug\tennis.exe
+D:\Users\soroosh\source\repos\tennis\tennis\bin\Debug\tennis.pdb
+D:\Users\soroosh\source\repos\tennis\tennis\obj\Debug\tennis.exe
+D:\Users\soroosh\source\repos\tennis\tennis\obj\Debug\tennis.pdb
